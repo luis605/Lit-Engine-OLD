@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://github.com/luis605/Lit-Engine/blob/main/Docs/images/icon.png" width=30% height=30%>
+  <img src="https://github.com/luis605/Lit-Engine-OLD/blob/main/Docs/images/icon.png" width=30% height=30%>
 </p>
+
+> [!WARNING]
+> Lit Engine's development was restarted and this repository is no longer maintained. \
+> Please migrate to https://github.com/luis605/Lit-Engine.
 
 Lit Engine is an **open-source high-level game engine** powered by raylib. Made with the speed and portability of C++, Lit Engine allows you to build 3D experiences with minimal effort, and our intuitive interface will quickly launch you into the development world.
 
